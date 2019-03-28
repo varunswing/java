@@ -11,7 +11,7 @@ public class ExceptionHandling
         }
         catch(ArithmeticException e)
         {
-            System.out.println("Error ");
+            System.err.println("Error ");
         }
         finally
         {
