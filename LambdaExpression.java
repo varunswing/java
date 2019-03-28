@@ -2,7 +2,7 @@ interface Abc
 {
     void show();
 }
-class LambdaExpression
+public class LambdaExpression
 {
     public static void main(String []args)
     {
