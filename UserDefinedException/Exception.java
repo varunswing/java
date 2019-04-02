@@ -11,7 +11,7 @@ public class Exception
             int k = i/j;
             if(k==0)
                 throw new MyException("This is not possible.");
-            System.out.println(k);
+            System.out.println("Output is " +k);
         }
         catch(MyException e)
         {
