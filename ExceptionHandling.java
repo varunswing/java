@@ -18,4 +18,11 @@ public class ExceptionHandling
             System.out.println("Bye");
         }
     }
+} switch (key) {
+    case value:
+        
+        break;
+
+    default:
+        break;
 }
